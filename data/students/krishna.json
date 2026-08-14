@@ -1,0 +1,11 @@
+{
+  "id": "krishna",
+  "name": "Krisnna",
+  "state": "Andhra Pradesh",
+  "city": "Nandyala",
+  "lat": 31.63,
+  "lng": 74.87,
+  "interests": ["Technology", "Cricket"],
+  "quote": "Lion will be Lion but not cat even if it is in city.",
+  "github": "cs25b014-byte"
+}
